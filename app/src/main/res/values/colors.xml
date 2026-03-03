@@ -7,4 +7,17 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores Principales -->
+    <color name="color_primario">#2ECC71</color>
+    <color name="color_secundario">#3498DB</color>
+    <!-- Fondo -->
+    <color name="color_fondo">#F4F6F7</color>
+    <!-- Texto -->
+    <color name="texto_principal">#2C3E50</color>
+    <color name="texto_secundario">#7F8C8D</color>
+    <!-- Errores o Advertencia -->
+    <color name="gastos">#E74C3C</color>
+    <color name="advertencia">#F1C40F</color>
+    <color name="ingreso">#27AE60</color>
 </resources>
